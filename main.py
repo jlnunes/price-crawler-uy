@@ -1,4 +1,5 @@
 #first line comment (added localy)
+#now a second line comment
 from disco_n_devoto_lib import D_search_by_string, D_get_price_by_product_number
 from ti_lib import TI_search_by_string
 import sys
